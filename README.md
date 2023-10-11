@@ -1,6 +1,13 @@
-# test
+# Netclan Explorer Clone
 
 A new Flutter project.
+# Output 
+<b>Explore Screen</b>
+<br>
+![image](https://github.com/TeghSinghJ/Netclan-Explorer/assets/81065036/9a628364-cbbd-464f-ba9c-105c3c444043)<br/>
+<b>Refine Screen</b><br>
+![image](https://github.com/TeghSinghJ/Netclan-Explorer/assets/81065036/f279804f-9843-4a40-ab2d-50203a2462ba)
+
 
 ## Getting Started
 
